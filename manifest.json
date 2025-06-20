@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "standout",
+	"name": "Standout",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Dynamically highlights elements of text based on patterns",
+	"author": "Yurii Palaida",
+	"authorUrl": "https://github.com/jyuart",
+	"fundingUrl": "",
 	"isDesktopOnly": false
 }
